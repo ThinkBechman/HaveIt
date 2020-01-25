@@ -1,0 +1,31 @@
+[
+  {
+    "ID": "0",
+    "Name": "Goat",
+    "Type": "Token Creature",
+    "MTG Set": "Theros Beyond Death",
+    "Released": "24 Jan 2020",
+    "Power/Toughness": "0/1",
+    "Quantity": "0"
+  },
+
+  {
+    "ID": "0",
+    "Name": "Elemental",
+    "Type": "Token Creature",
+    "MTG Set": "Theros Beyond Death",
+    "Released": "24 Jan 2020",
+    "Power/Toughness": "*/1",
+    "Quantity": "0"
+  },
+
+  {
+    "ID": "0",
+    "Name": "Nightmare",
+    "Type": "Token Creature",
+    "MTG Set": "Theros Beyond Death",
+    "Released": "24 Jan 2020",
+    "Power/Toughness": "2/3",
+    "Quantity": "0"
+  }
+]
